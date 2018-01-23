@@ -97,7 +97,7 @@ including taglines.
 
 ## Stories
 
-> :book: The **Stories** are the business lore we want to be tell.
+> :book: The **Stories** are the business lore we want to be told.
 
 The **Revas Project** tells its story through the human experiences linked to the
 non-profit world, especially all the past experiences the founders had in it.
