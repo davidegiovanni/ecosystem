@@ -105,7 +105,7 @@ non-profit world, especially all the past experiences the founders had in it.
 It's all about the small and big changes that make us feel better personally,
 the difficulties of changing and the pain when there's no change at all.
 
-The sharing of feelings is fundamental for our business because when we join our 
+The sharing of feelings is fundamental for our business because when we join our
 strenghts together we increase the benefits for ourselves and the others.
 
 ## Visual
